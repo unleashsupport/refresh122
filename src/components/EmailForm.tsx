@@ -46,8 +46,8 @@ const EmailForm: React.FC = () => {
               <div className="confetti-middle"></div>
               <div className="confetti-right"></div>
             </div>
-            <h3 className="text-xl font-bold mb-2 text-primary-400">🎉 Almost there!</h3>
-            <p className="text-gray-300">Please check your inbox to verify your email address.</p>
+            <h3 className="text-xl font-bold mb-2 text-primary-400">🎉 Congratulations</h3>
+            <p className="text-gray-300">Thank you for signing up! You will be notiifed when we launch in June!</p>
           </div>
         );
       
